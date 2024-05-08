@@ -47,9 +47,28 @@ operadores logicos
 && "E"
 || "OU"
 
-
-
 Ternario - forma resumida de um IF 
+
+Metodos ----------------------------------------------------------------------------------------------------------------------------------------
+
+Deve ser nomeado como verbo
+Seguir padrão camelCase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
