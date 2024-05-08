@@ -19,6 +19,53 @@ nem sempre e necessario decretar o valor da variavel logo no começo.
 
 identação = e um termo utilizado para escrever o codigo do programa de forma legivel.
 
+Java Sintaxe -----------------------------------------------------------------------------------------------------------------------------
+
+variaveis - int,double,short,float, etc
+
+TIPO - NOME - ATRIBUIÇÃO
+
+java e fortemente tipavel
+
+Constantes = são valores armazenados em memoria que n podem ser modificados depois de declaradas (Final)
+
+Operadores -------------------------------------------------------------------------------------------------------------------------------------------
+
+São simbolos especiais 
+
+== igual 
+! = diferente
+< Menor 
+> Maior 
+<= Menor igual
+>= Maior igual
+
+++/-- Incrementar o valor em 1 unidade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
