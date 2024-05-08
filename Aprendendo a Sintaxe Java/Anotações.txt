@@ -1,0 +1,25 @@
+Anotomia da Classe 
+
+public class MinhaClASS {
+
+  seu codigo aqui
+}
+
+se ela e uma classe executavel , ela precisa ter um metodo principal , que seria o Main
+
+todo arquivo e .java
+
+o nome da classe tem que ser o mesmo nome do arquivo.
+
+as variaveis devem ser escritas com a primeira letra minuscula.
+
+uma variavel nunca consegue ser mudada o valor, dps que e o valor é definido(final)
+
+nem sempre e necessario decretar o valor da variavel logo no começo.
+
+identação = e um termo utilizado para escrever o codigo do programa de forma legivel.
+
+
+
+
+
