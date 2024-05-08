@@ -34,7 +34,7 @@ Operadores ---------------------------------------------------------------------
 São simbolos especiais 
 
 == igual 
-! = diferente
+!= diferente
 < Menor 
 > Maior 
 <= Menor igual
@@ -42,9 +42,14 @@ São simbolos especiais
 
 ++/-- Incrementar o valor em 1 unidade
 
+operadores logicos 
+
+&& "E"
+|| "OU"
 
 
 
+Ternario - forma resumida de um IF 
 
 
 
