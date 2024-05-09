@@ -55,6 +55,13 @@ Deve ser nomeado como verbo
 Seguir padrão camelCase
 
 
+Palavras reservadas - são identificadores de uma linguagem que ja possuem uma finalidade especifica 
+
+
+
+
+
+
 
 
 
