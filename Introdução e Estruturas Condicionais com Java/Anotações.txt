@@ -1,0 +1,4 @@
+estruturas condicionais - if else , switch case.
+repetição fpr,while,do-while.
+execeções try-cath-finally.
+
