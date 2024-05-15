@@ -1,0 +1,43 @@
+conceito de poo 
+
+Baixo nivel - são linguagens q estão mais proximas da interpertação da maquina do algoritmo desenlvolvido (Assembly e c)
+
+Alto nivel - são linguagens que disponibilizam uma proposta de sintax , mais proxima da interpretação humana (java,js,python e c++)
+
+
+
+POO - e um paradigma de programação baseado no conceito de objetos , que podem conter dados na forma de campos , tbmm conhecidos como atributos e codigos na forma de procedimentos , tbm conhecidos como metodos 
+
+as linguagens usam cada vez mais o poo pra se adquar ao mundo real.
+
+Classes - toda a estrutura de codigo na linguagem java é distribuido em arquivos como extensão .java denominados de classe, que será composto identificador , caracteristicas e comportamentos. 
+
+
+Stats - bane , age , color , sex 
+
+objeto - Nome: john , age: 12 , color: fair , sex : Male (classe e o contrato)
+
+PRIMEIRO CRIA UM MODE , DPS CRIA O OBJETO 
+
+
+classe de modelo - classes que representem estrutura de domininio de aplicação 
+
+classe de serviço - classes que contem regras de negocio e validação de nosso sistema 
+
+classe de repositorio - classes que contem uma integração com o banco de dados 
+
+classe de controle (controller) - classes que possuem a finalidade de disponibilizar alguma comunicação externa a nossa aplicação 
+
+classe utiitaria - classe que contem recursos comuns á toda nossa aplicação
+
+
+
+
+
+
+
+
+
+
+
+

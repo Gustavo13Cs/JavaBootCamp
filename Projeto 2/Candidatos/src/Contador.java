@@ -28,6 +28,11 @@ public class Contador {
             System.out.println("O segundo parâmetro deve ser maior que o primeiro");
         }
 		//realizar o for para imprimir os números com base na variável contagem
+
+		
         
 	}
+
+	 
+	
 }

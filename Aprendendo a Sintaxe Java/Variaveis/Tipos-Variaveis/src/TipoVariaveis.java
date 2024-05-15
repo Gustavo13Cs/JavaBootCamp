@@ -9,6 +9,8 @@ public class TipoVariaveis {
         float pi = 3.14F;
         double salario = 1275.33;
 
+        int resultado = 10 - 10;
+
         final double VALOR_NAO_PODE_MUDAR = 10.00; //TEM Q DIGITAR O NOME DA VARIAVEL EM CAIXA ALTA
 
     }
