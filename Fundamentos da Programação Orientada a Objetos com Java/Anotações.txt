@@ -30,6 +30,14 @@ classe de controle (controller) - classes que possuem a finalidade de disponibil
 
 classe utiitaria - classe que contem recursos comuns á toda nossa aplicação
 
+Deixar os arquivos e pastas bem organizadas e fundamental , deixando bem explicita pelo nome daquela classe/pasta, pra facilitar futuramente , além de deixar bem organizado (ngm gosta de uma área de trabalho cheia de arquivos sem organização).
+
+
+
+
+
+
+
 
 
 
