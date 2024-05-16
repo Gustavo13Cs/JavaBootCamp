@@ -33,6 +33,20 @@ classe utiitaria - classe que contem recursos comuns á toda nossa aplicação
 Deixar os arquivos e pastas bem organizadas e fundamental , deixando bem explicita pelo nome daquela classe/pasta, pra facilitar futuramente , além de deixar bem organizado (ngm gosta de uma área de trabalho cheia de arquivos sem organização).
 
 
+Conceito de visibilidade 
+
+NEM TUDO PRECISA SER VISTO POR TODOS
+
+GETTERS E SETTERS ------------------------------------------------------------------------
+
+São utilizados para buscar valores de atributos ou definiri novos valores de atributos 
+
+set é responsavel por defnir ou modificar o valor de um atributo em um objeto 
+
+et é responsavel por obter o valor atual do atributo 
+
+
+
 
 
 
