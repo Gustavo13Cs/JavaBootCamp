@@ -45,6 +45,14 @@ set é responsavel por defnir ou modificar o valor de um atributo em um objeto
 
 et é responsavel por obter o valor atual do atributo 
 
+CONSTRUTORES 
+
+classe novoobjeto = new Classe (); instanciar um novo objeto 
+
+
+
+
+
 
 
 
