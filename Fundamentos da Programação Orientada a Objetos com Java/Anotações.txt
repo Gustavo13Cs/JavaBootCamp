@@ -45,12 +45,18 @@ set é responsavel por defnir ou modificar o valor de um atributo em um objeto
 
 et é responsavel por obter o valor atual do atributo 
 
-CONSTRUTORES 
+CONSTRUTORES ----------------------------------------------------------------------------------------------------
 
 classe novoobjeto = new Classe (); instanciar um novo objeto 
 
 
+ENUMS ----------------------------------------------------------------------------------------------
 
+e um tipo especial de classe onde os objetos sao previamente criados , imutaveis e disponiveis por toda aplicação 
+
+usamos enum quando  o nosso modelo de negocio contem objetos de mesmo contexto que ja existem pre estabelecida com a certeza de n haver tanta alteração de valores
+
+enum tem objetos que n se muda.
 
 
 
