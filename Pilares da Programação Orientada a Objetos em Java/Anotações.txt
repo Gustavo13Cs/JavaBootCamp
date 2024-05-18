@@ -1,0 +1,15 @@
+o POO ajuda na reutilização do codigo 
+
+Encapsulamento - nem tudo precisa ester visivel
+
+Herança - Caracteristicas e comportamentos comunns podem ser elevados e compartilhados atraves de uma hierarquia de objetos. n permite herança multipla EM JAVA
+
+Abstração - é a indisponibilidade para determinar a logica de um ou varios comportamentos em um objeto.
+
+Polimorfismo - são as inumeras maneiras de se realizar uma mesma ação .
+
+Interface - firma um contrato, abrindo espaço pra fazer mais de uma "herança"
+
+
+
+
