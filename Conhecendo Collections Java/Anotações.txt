@@ -1,0 +1,25 @@
+Collection - e uma estrutura de dados em uma unica unidade
+
+ ela só aceita uma unica unidade, n aceita tipo primitivo , apenas classes
+
+ geralmente criamos collection do tipo homogenio
+
+ temos quatro grandes tipos de coleções 
+
+  list 
+
+  Set 
+
+  Queue
+
+  Map
+
+ java.util as interfaces são encontrado lado 
+
+
+
+ 
+   
+
+  
+
