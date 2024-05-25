@@ -1,0 +1,26 @@
+Maven 
+
+ferramente para gerenciar build e dependencias de um projeto
+
+facilita a compreensão do desenvolvedor 
+
+fornecer informações de qualidade 
+
+Qual problema ele resolve ??
+
+ ferramentas que executam e compilam todos os testes e classes que existem em nosso projeto 
+
+comando pra criar o projeto 
+
+mvn archetype:generate "-DgroupId=one.digitalinnovation" "-DartifactId=quick-start-maven" "-Darchetype=maven-archetype-quickstart" "-Dinteractive Mode=false"
+
+mvn compile - todos os codigos java são automaticamente compilados 
+
+
+mvn teste - encontre todas as classes testes e execute
+
+mvn package - criar o jar da aplicação 
+
+mvn clean - limpar o diretorio 
+
+maven archetype - ajuda a criar multiplos projetos 
