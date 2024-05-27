@@ -1,0 +1,30 @@
+teste de software e o processo de execução de um produto para determinar se ele atingiu suas especificações e funcionou correatamente 
+
+Teste de unidade - teste direcionados as pequenas unidades de software - codigos 
+
+Teste de integração - ele se preocupa com a validação de uma parte maior do sofware - uma parte grande ou função total 
+
+Teste de  sistema - coloca algumas pessoas pra validar o sistema , o teste e feito de forma mais visual , com pessoas 
+
+Teste de regressão - reavalizar tudo que foi desenvolvido, se as novas funções n tão atrapalhando o sistema antigo e o atual por exemplo 
+
+Teste de aceitação - implantar o sistema e o proprio usuario usa 
+
+Teste alpha , beta e cannary 
+
+Alpha - pessoas do proximo time teste , usando o software.
+
+Beta - pessoas de fora do time , os usuarios começam usar , nesse momento ele ainda n e 100% , mas ta quase 
+
+cannary - implantar o sistema em produção, separa determinada versão do programa , pras algumas pessoas , msm o sistema antigo ativo.
+
+Teste de caixa branca - validar dados , controles , fluxos , chamadas - saber como funciona o codigo , garantir a qualidade 
+
+Teste de caixa preta - verificar saidas usando varios tipos de entrada - n conhecer a estrutura interna do sotfware
+
+Teste de caixa cinza - analisa parte logica e tbm funcionalidade , ex: ter acesso a documentação do funcionamento do codigo 
+
+
+
+
+ 
