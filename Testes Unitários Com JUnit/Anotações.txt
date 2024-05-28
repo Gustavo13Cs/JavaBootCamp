@@ -1,0 +1,14 @@
+pq escrever testes unitarios ??
+
+ tbm chamado de testes unidade , testar a menor unidade codigo possivels , função , metodo, classes etc
+
+ geralmente escrito em tempo de desenvolvimento 
+
+ e importante escrever teste unitarios pq , compreende o codigo fonte , corregir bugs com segurança , refatorar codigo sem intrudizr bugs , entegar com segurança uma nova feature 
+
+ o testes fazem parte da cultura de agilidade 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
