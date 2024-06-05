@@ -1,0 +1,128 @@
+o que e um banco de dados - e uma forma organizada de guardar informações
+
+tipo de bancos 
+
+ relacionais - sql 
+
+ n relacionai - noSql
+
+Sgbd - sistema de gerenciamento de banco de dados 
+
+Crud - create , read , update e delete 
+
+caracteristicas
+
+ relacionamento entre tabelas 
+
+ linguagem de consulta estrutura sql 
+
+ integridade referencial 
+
+ normalização de dados 
+
+ segurança 
+
+ flexibilidade e extensibilidade 
+
+ suporte a transações ACID 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ACID - ATOMICIDADE - CONSISTENCIA - ISOLAMENBTO - DURABILIDADE 
+
+Sql - e uma linguagem padronizada , e com ela que manipulamos os banco de dados 
+
+
+DQL - linguagem de consulta de dados - select 
+
+DML - linguagem de manipulação de dados - inset , update e delete 
+
+DDL - linguagem de dinifinição de dados - crate , alter , drop
+
+DCL - linguagem de controle de dados - grant e revoke 
+
+DTL - linguagem de transação de dados - begin , commit , rooll back 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mer - e o modelo entidade - relacionamento MER , e representadp atraves de diagramas chamados diagramas de entidades relacionamento DER		
+
+entidades - entidades sao nomeadas como substantivos concretos ou abstratos que representem de forma clara sua funação dentro dominino 
+
+atributos - os atributos sao as caracteristicas ou propriedades das entidades , eles descrevem informações especificias sobre uma entidades 
+
+https://app.creately.com/d/xuUrUzlcu94/edit/s/QZCXzPLh0fq
+
+1..1 um para um 
+
+1.. n ou 1..* um para muitos 
+
+n..n ou *..* muitos para muitos 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Normalização de dados e um processo no qual se organiza e estrutura um banco de dados relacional de forma a eliminar redundancias e anomalias, garantindo a consistencia e integridade dos dados.
+
+1Fn: atomicidade de dados 
+
+ a 1fn estabelece que cada valor em tabela deve ser atomico ou seja indivisivel , nenhuma campo deve conter multiplos valores ou listas.
+
+2Fn 
+
+ a 2fn estabelece que um tabela deve estar na 1fn
+
+ TODOS OS ATRIBUTOS N CHAVES DEVE DEPENDER TOTALMENTE DA CHAVE PRIMARIA 
+
+3FN 
+
+ deve estar na 2FN
+
+ nenhuma coluna n chave depender de outra coluna n chave 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

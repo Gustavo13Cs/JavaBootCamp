@@ -1,0 +1,68 @@
+BANCO DE DADOS N RELACIONAIS 
+
+tipos ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Document store 
+
+Key-Value Store 
+
+wide-Column Store 
+
+Graph Store - 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Coluna/Familia de colunas 
+
+no banco n relacional , vc n e obrigado completar todos os atributos que adionamos 
+
+Keyspace: agrupamento de familias  de colunas - database
+
+Column Family/table: agrupamento de colunas - trable 
+
+Row Key - chave que representa uma linha de coluna - primary key 
+
+Column - representa um valor contendo : name , value timestamp
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MONGODB - alta performance , codigo aberto , Schema - Free , utiliza Json para armazenar os dados 
+
+
+Quando usar : grande volumes de dados , dados n necessariamentes estruturados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
