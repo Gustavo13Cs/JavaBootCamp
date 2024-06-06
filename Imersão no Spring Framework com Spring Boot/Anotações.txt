@@ -1,0 +1,66 @@
+SPRING FRAMEWORK - java 
+
+e composto por modulos afins de reduzir a complexidade no desenvolvimento 
+
+
+
+o java ee era realmente muito complicado e nem era necessario entrar numa discussao , usar o spring era um caminho mais simples e mais facil de evoluir , asi chegou a versão 5 do java EE.
+
+INVERSÃO DE CONTOLE - IOC
+
+trata se do redirecionamento do fluxo de execução de um codigo retirando parcialmente o controle sobre ele e delegando-o para um container
+
+Injeção de dependencias 
+
+e um padrao de de desenvolvimento com a finalidade de manter baixo o nivel de acoplamento entre modulos de um sistema 
+
+Beans 
+
+objeto que e instanciado(criado), montado e gerenciado por um container atravez do principio de inversao de controle 
+
+Scopes - Singleton(unico objeto sendo compartilhado) e Prototype (e criado uma nova solitação a cada requisição) 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SPRINGBOOT
+
+springboot foca na configuração automatica
+
+antes do springboot - dependencia individual, verbosidade , imcompatibidade de versoes , complexidade de gestão, configurações repetitivas
+
+ele tras a proposta , de iniciar um projeto com todas estas configurações pre definidas
+
+Beneficios , coesão , versoes compativeis , otimização do tempo , configurações simples , foco no negocio 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+quando usar o component ?? quando tenho acesso ao codigo fonte
+
+Quando começar usar muitos Bean e bom criar uma classe pra colocar somente eles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
