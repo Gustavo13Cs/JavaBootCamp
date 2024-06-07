@@ -1,0 +1,59 @@
+Rest - disponibilizar serviços onde nossos clientes teram respostas em formato jdson 
+
+API REST - e como um guia de boa praticas e RESTFUL e a capacidade de determinado sistema aplicar os principios de REST
+
+
+
+CLIENTE-SERVIDOR - Significa apromorar a portabilidade entre varios plataformas de interface do usuario e do servidor , permitidino uma evolução independente do sistema 
+
+interface uniforme - representa uma interação uniforme entre o cliente e o servidor , para isso , e preciso ter uma interface que identifique e represente recursos
+
+stateless - indica que cada interação via API tem acesso a dados completos e compreensiveis 
+
+cache - necessario para reduzir o tempo medio de resposta , melhorar a eficiencia e desempenho 
+
+camadas - permite que a arquitetura seja menos complexa e altamente flexivel 
+
+Nivel 0 - ausencia de regras 
+
+apresenta todos os metodos , mas n tem os demais recursos , nem padrão 
+
+NIVel 1 - Aplicação de recursos 
+
+adicionou verbos mais definidos 
+
+Nivel 2 - implementação de verbos HTTP 
+
+GET - retorna dados 
+
+POst - Grava dados 
+
+PUT - Altera dados 
+
+Delete - remove dados 
+
+
+Nivel 3 - Hateaos - nivel menos explorado 
+
+Api que impleta esse nivel fornece aos seus clientes links que indicarao como podera ser feita a navegação entre seus recursos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
