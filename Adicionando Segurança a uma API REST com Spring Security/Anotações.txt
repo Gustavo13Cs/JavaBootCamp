@@ -1,0 +1,6 @@
+Autenticação - refere ao processo de verificação da identidade de um usuario , com base nas credenciais fornecidads
+
+Autorilização - refere ao processo de determinado se um usuario tem permissao adequada para executar uma ação especifica pu ler dados especificos 
+
+Principio - refere - se ao usuario auteniticado no momento 
+
