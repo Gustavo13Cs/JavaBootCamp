@@ -1,0 +1,5 @@
+Singleton - Permitir a criação de uma unica instancia de uma classe e fornecer um modo para recupera - la 
+
+Strategy - Simplicar a variação de algoritmos para a resulução de um mesmo problema.
+
+Facade - Prover uma interface que reduza a complexidade nas integrações com subsistemas.
