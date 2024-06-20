@@ -24,14 +24,14 @@ public class UserController {
         this.userService = userService;
     }
 
-    //buscar o id
+    //buscar o id \\
     @GetMapping("/{id}")
     public ResponseEntity<User> findById(@PathVariable Long id) {
         var user = userService.findById(id);
         return ResponseEntity.ok(user);
     }
 
-    //criar o ID
+   //criar o ID\\
     @PostMapping("/{id}")
     public ResponseEntity<User> create(@RequestBody User userToCreate) {
         var userCreated = userService.create(userToCreate);
